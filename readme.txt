@@ -15,6 +15,8 @@ The plugin is based on the code provided by PMPro: http://www.paidmembershipspro
 
 A check box is added to the wordpress PMPro discounts settings page to activate the restriction per code.
 
+Currently, the check box will only display when editing a code and not when generating a new one.   
+
 == Installation ==
 1. Upload the 'pmpro-once-per-member-discount' folder to the '/wp-content/plugins/' directory of your site.
 2. Activate the plugin through the \'Plugins\' menu in WordPress.
